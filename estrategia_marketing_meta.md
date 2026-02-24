@@ -104,3 +104,32 @@ To ensure this strategy is successfully executed, you must focus on the followin
 *   **Primary Text:** Incorpora innovación real en tu proceso operativo. ValiDocs es la infraestructura tecnológica de validación en la nube diseñada para el mercado inmobiliario mexicano. Seguridad de grado bancario, validación de INE por IA y control total del expediente del cliente.
 *   **Headline:** Actualiza tu proceso de escrituración hoy.
 *   **Call to Action (CTA):** Más información
+
+### Angle 3: Scalability & Operational Load Reduction (Focus on Admin/COO)
+
+#### Concept 3.1: Metaphorical / The Scaling Machine (The Control Tower Angle)
+![Concept 3.1: The Scaling Machine](images/concept_3_1_scaling_machine.png)
+
+*   **Visual Concept:** A high-end 3D illustration of an incredibly organized, futuristic control room or a large glowing dashboard. The dashboard screen prominently displays the "ValiDocs" app interface with multiple glowing progress bars all reaching 100%. The text clearly reads: "Expedientes Completos".
+*   **The Hook (Image Text):** Domina el volumen de ventas sin colapsar tu equipo.
+*   **Primary Text:** Cada nuevo proyecto inmobiliario multiplica el caos administrativo. Integra expedientes de cientos de compradores sin contratar más personal operativo. ValiDocs es la infraestructura tecnológica de validación documental que te permite escalar tu volumen de escrituración sin límites.
+*   **Headline:** Automatización para operaciones inmobiliarias a escala.
+*   **Call to Action (CTA):** Más información
+
+#### Concept 3.2: Professional Lifestyle (Boardroom Analytics Angle)
+![Concept 3.2: Boardroom Analytics](images/concept_3_2_boardroom_analytics.png)
+
+*   **Visual Concept:** A sleek image inside a sunlit, modern boardroom. A Chief Operating Officer (COO) or Operations Director is standing and pointing at a large digital presentation screen. The screen shows the "ValiDocs" dashboard showcasing an analytics chart and explicitly reading "Eficiencia +45%".
+*   **The Hook (Image Text):** Tus mejores cierres comienzan en la operación, no en las ventas.
+*   **Primary Text:** Los cuellos de botella en la recolección de documentos retrasan tus metas financieras trimestrales. Obtén visibilidad en tiempo real del estatus de cada cliente. Elimina revisiones manuales y audita expedientes bajo las normativas vigentes en minutos, no en días.
+*   **Headline:** Eficiencia Documental para Inmobiliarias Líderes.
+*   **Call to Action (CTA):** Ver demostración
+
+#### Concept 3.3: Direct Contrast (Operations Automation Angle)
+![Concept 3.3: Operations Automation](images/concept_3_3_operations_automation.png)
+
+*   **Visual Concept:** A clean composition showing an elegant, modern smartphone on a marble table holding the "ValiDocs" app. The smartphone clearly displays a list of incoming documents automatically categorizing themselves, with a green success banner that accurately reads "Revisión Automática Activa". Next to the phone, an outdated, massive paper filing cabinet rests, covered in a "Cerrado" (Closed) sign.
+*   **The Hook (Image Text):** El archivo muerto ahora es digital e inteligente.
+*   **Primary Text:** Olvídate del archivero físico y de las interminables cadenas de correo electrónico para recopilar identificaciones y actas. Pasa al siglo XXI con inteligencia artificial que solicita, lee y aprueba automáticamente los requisitos legales de tus compradores 24/7.
+*   **Headline:** El sistema de gestión documental del futuro.
+*   **Call to Action (CTA):** Solicitar demostración
