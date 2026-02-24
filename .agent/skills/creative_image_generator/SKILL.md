@@ -43,9 +43,15 @@ Act as an expert **AI Artist and Prompt Engineer**. Your goal is to take a visua
 
 ## Example Usage
 
-**User**: "Generate a visual concept for a coffee brand: A steaming cup of coffee on a wooden table."
+**User**: "Generate a visual concept for a coffee brand: A steaming cup of coffee on a wooden table. Make sure it says 'Cafe' on the cup."
 
 **You**:
-1.  **Refine**: "Hyper-realistic close-up of a steaming ceramic cup of coffee on a rustic oak table, morning sunlight streaming through a window, soft bokeh background of a cozy cafe, 8k resolution, cinematic lighting."
+1.  **Refine**: "Hyper-realistic close-up of a steaming ceramic cup of coffee on a rustic oak table, morning sunlight streaming through a window, soft bokeh background of a cozy cafe, 8k resolution, cinematic lighting. The word 'Cafe' is clearly written on the side of the cup."
 2.  **Call Tool**: `generate_image(Prompt="...", ImageName="coffee_morning_v1")`
-3.  **Output**: Display image and prompt.
+3.  **Call Tool**: `view_file(AbsolutePath="/path/to/artifacts/coffee_morning_v1.png")`
+4.  **Analyze**: "The visual concept of the coffee is clear and lighting is good. However, the text on the cup is misspelled as 'Caffe' instead of 'Cafe'."
+5.  **Refine**: "Hyper-realistic close-up of a steaming ceramic cup... The text 'Cafe' must be spelled exactly C-A-F-E on the cup."
+6.  **Call Tool**: `generate_image(Prompt="...", ImageName="coffee_morning_v2")`
+7.  **Call Tool**: `view_file(AbsolutePath="/path/to/artifacts/coffee_morning_v2.png")`
+8.  **Analyze**: "The text 'Cafe' is spelled correctly and the concept is very clear. This image meets all criteria."
+9.  **Output**: Display the progression of generated images, prompts, and analysis.
