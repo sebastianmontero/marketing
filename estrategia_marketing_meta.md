@@ -75,3 +75,32 @@ To ensure this strategy is successfully executed, you must focus on the followin
     *   **Outbound CTR (Click-Through Rate):** If people are stopping to look but not clicking (below 1%), your Primary Text or Headline is not compelling enough, or the offer (Book a demo) feels like too much friction.
     *   **Landing Page Conversion Rate:** If CTR is high but CPA is high, the disconnect is happening on your website. Ensure the landing page messaging perfectly matches the promise made in the ad.
 3.  **Creative Fatigue:** You are launching with 4 diverse concepts. Let them run for at least 3-5 days without touching them to exit the learning phase. Once you identify the winning angle, iterate continuously on that specific concept (new colors, slightly different hook text, different UI mockups) while turning off the losers.
+
+### Angle 2: Buyer Experience (Focus on Proptech & Innovation)
+
+#### Concept 2.1: Lifestyle / Frictionless Buying (The Happy Buyer Angle)
+![Concept 2.1: The Happy Buyer](images/concept_2_1_happy_buyer.png)
+
+*   **Visual Concept:** A high-quality photorealistic lifestyle shot of a happy young Mexican couple sitting on a modern sofa in a new house. They look relieved and excited while looking at a smartphone. The phone clearly displays the "ValiDocs" app with a green success bubble reading "¡Tu casa te espera!".
+*   **The Hook (Image Text):** Comprar casa debería ser emocionante, no un dolor de cabeza documental.
+*   **Primary Text:** Entregar papeles interminables arruina la experiencia de compra de tus clientes. Ofrece un proceso moderno, transparente y 100% digital. Con ValiDocs, tus compradores suben sus requisitos desde su celular en minutos y tú cierras operaciones en tiempo récord. Mejora tu reputación y aumenta tus referidos.
+*   **Headline:** La experiencia de compra Proptech que tus clientes exigen.
+*   **Call to Action (CTA):** Ver demostración
+
+#### Concept 2.2: Authority / Operational Efficiency (The Seamless Agent Angle)
+![Concept 2.2: The Seamless Agent](images/concept_2_2_seamless_agent.png)
+
+*   **Visual Concept:** A professional real estate agent standing confidently in a bright modern property. They hold a digital tablet showing the "ValiDocs" dashboard with a 100% progress circle and the text "Integración Exitosa". The client is visible in the background, relaxed.
+*   **The Hook (Image Text):** Dale a tus asesores la herramienta para cerrar más rápido.
+*   **Primary Text:** Los asesores exitosos de hoy usan tecnología para eliminar fricción, no para archivar papeles. Automatiza la recolección KYC y la integración del expediente crediticio. Tu equipo de ventas proyectará profesionalismo y eficiencia, reduciendo el ciclo de venta a la mitad.
+*   **Headline:** Tecnología para Asesores Inmobiliarios Top.
+*   **Call to Action (CTA):** Reservar cita
+
+#### Concept 2.3: Concept / The Future of Integration (The Tech Angle)
+![Concept 2.3: The Proptech Future](images/concept_2_3_proptech_future.png)
+
+*   **Visual Concept:** A sleek, conceptual 3D abstract composition showing a modern architectural building model. Hovering above it are clean digital UI components from "ValiDocs", showing documents flowing smoothly into a secure automated system. 
+*   **The Hook (Image Text):** El estándar de validación documental para desarrolladoras líderes.
+*   **Primary Text:** Incorpora innovación real en tu proceso operativo. ValiDocs es la infraestructura tecnológica de validación en la nube diseñada para el mercado inmobiliario mexicano. Seguridad de grado bancario, validación de INE por IA y control total del expediente del cliente.
+*   **Headline:** Actualiza tu proceso de escrituración hoy.
+*   **Call to Action (CTA):** Más información
