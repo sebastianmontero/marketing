@@ -22,7 +22,7 @@ We will implement a simplified, modern campaign structure heavily reliant on Met
 In current media buying, creative is the new targeting. We must rely on our Hooks to filter out the general public and speak directly to Real Estate Directors and Sales Managers. We will use a mix of angles to feed the Advantage+ algorithm.
 
 ### Concept 1: Logical / Solution-Focused (The Dashboard Angle)
-![Concept 1: The Dashboard Angle](images/concept_1_dashboard_1771718983039.png)
+![Concept 1: The Dashboard Angle](images/concept_1_dashboard.png)
 
 *   **Visual Concept:** A clean, professional software UI mockup showing a "Perfil del Cliente" dashboard. It displays a progress bar at 100% and green checkmarks next to realistically named documents: "INE vigente", "Comprobante de Domicilio", "Constancia de Situación Fiscal".
 *   **The Hook (Image Text):** Deja de perseguir clientes por documentos.
@@ -31,7 +31,7 @@ In current media buying, creative is the new targeting. We must rely on our Hook
 *   **Call to Action (CTA):** Solicitar demostración
 
 ### Concept 2: Emotional / Pain-Point Focused (The Sales Rep Angle)
-![Concept 2: The Sales Rep Angle](images/concept_2_split_screen_1771719073673.png)
+![Concept 2: The Sales Rep Angle](images/concept_2_split_screen.png)
 
 *   **Visual Concept:** A split-screen static image. On the left, a frustrated sales advisor buried in printed papers and a messy desk. On the right, a clean smartphone screen showing an automated WhatsApp chat where a bot gracefully informs a client: "Testamento recibido. Ahora por favor envía tu INE, frente y reverso."
 *   **The Hook (Image Text):** Tus asesores son para vender, no para cobrar papeles.
@@ -40,7 +40,7 @@ In current media buying, creative is the new targeting. We must rely on our Hook
 *   **Call to Action (CTA):** Solicitar demostración
 
 ### Concept 3: Direct Response / Outcome-Focused (The ROI Angle)
-![Concept 3: The ROI Angle](images/concept_3_roi_1771904341943.png)
+![Concept 3: The ROI Angle](images/concept_3_roi.png)
 
 *   **Visual Concept:** A sleek, minimalist graphic showing a timeline compressing, or a calendar with days crossed out. Text overlay clearly states the transformation in time saved.
 *   **The Hook (Image Text):** Integra expedientes completos en tiempo récord.
