@@ -133,3 +133,26 @@ To ensure this strategy is successfully executed, you must focus on the followin
 *   **Primary Text:** Olvídate del archivero físico y de las interminables cadenas de correo electrónico para recopilar identificaciones y actas. Pasa al siglo XXI con inteligencia artificial que solicita, lee y aprueba automáticamente los requisitos legales de tus compradores 24/7.
 *   **Headline:** El sistema de gestión documental del futuro.
 *   **Call to Action (CTA):** Solicitar demostración
+
+### Angle 4: Social Proof & Authority (Carousel of the Process Workflow)
+
+#### Concept 4.1: Card 1 (The Problem)
+![Concept 4.1: Card 1](images/concept_4_1_problem.png)
+
+*   **Visual Concept:** The first card of a carousel showing a chaotic, stressful scenario. A desk overflowing with mismatched, poorly printed papers and a red warning sign. The top of the image features the app logo explicitly named 'ValiDocs'. A bold, dark red text overlay perfectly reads '¿Expedientes Incompletos?'.
+*   **The Hook (Carousel First Card Text):** Diseñado para alto volumen de ventas.
+*   **Primary Text:** La plataforma definitiva para empresas de desarrollo y comercialización de vivienda. Olvídate de los expedientes incompletos que frenan tus ingresos. Control centralizado, notificaciones automáticas al cliente final y validación inteligente respaldada por inteligencia artificial.
+*   **Headline:** Centraliza los documentos de tus compradores.
+*   **Call to Action (CTA):** Más información
+
+#### Concept 4.2: Card 2 (The Solution)
+![Concept 4.2: Card 2](images/concept_4_2_solution.png)
+
+*   **Visual Concept:** The second card of the carousel illustrating the solution. A neat, glowing 3D smartphone showing a document cleanly scanning with a glowing laser line. The top features the 'ValiDocs' logo. Bright green text overlay reads 'Validación con IA 24/7'.
+*   **Headline:** Tecnología que trabaja por ti.
+
+#### Concept 4.3: Card 3 (The Result)
+![Concept 4.3: Card 3](images/concept_4_3_result.png)
+
+*   **Visual Concept:** The final card of the carousel showing the ultimate benefit. A sleek, modern dashboard glowing green with a 100% completion graphic and a prominent checkmark. A businessperson's hand holds the keys to a house. The top features the 'ValiDocs' logo. Bright green text overlay reads 'Escrituras Sin Retrasos'.
+*   **Headline:** Control total de la operación.
