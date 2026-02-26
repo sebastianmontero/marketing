@@ -1,5 +1,3 @@
-[⬅️ Return to Home](./)
-
 
 # Meta Marketing Strategy V2: Automated Document Collection Platform
 
