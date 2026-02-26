@@ -54,7 +54,7 @@ In current media buying, creative is the new targeting. We will use a mix of 4 d
 ### Angle 2: Buyer Experience (Focus on Proptech & Innovation)
 
 #### Concept 2.1: Lifestyle / Frictionless Buying (The Happy Buyer Angle)
-![Concept 2.1: The Happy Buyer](images/concept_2_1_happy_buyer.png)
+![Concept 2.1: The Happy Buyer](images/concept_2_1_v2.png)
 
 *   **Visual Concept:** A high-quality photorealistic lifestyle shot of a happy young Mexican couple sitting on a modern sofa in a new house. They look relieved and excited while looking at a smartphone. The phone clearly displays the "ValiDocs" app with a green success bubble reading "¡Tu casa te espera!". A subtle top banner reads "Software exclusivo para Desarrolladoras" to clearly frame this as a B2B product, avoiding confusion with B2C real estate listings.
 *   **The Hook (Image Text):** Comprar casa debería ser emocionante, no un dolor de cabeza documental.
@@ -83,9 +83,9 @@ In current media buying, creative is the new targeting. We will use a mix of 4 d
 ### Angle 3: Scalability & Operational Load Reduction (Focus on Admin/COO)
 
 #### Concept 3.1: Metaphorical / The Scaling Machine (The Control Tower Angle)
-![Concept 3.1: The Scaling Machine](images/concept_3_1_scaling_machine.png)
+![Concept 3.1: The Scaling Machine](images/concept_3_1_v2.png)
 
-*   **Visual Concept:** A high-end 3D illustration of an incredibly organized, futuristic control room or a large glowing dashboard. The dashboard screen prominently displays the "ValiDocs" app interface with multiple glowing progress bars all reaching 100%. The text clearly reads: "Expedientes Completos".
+*   **Visual Concept:** A high-end photorealistic illustration of a bright, modern, and highly organized corporate office environment, deliberately avoiding any deep sci-fi or dark server room aesthetics. A sleek, large digital dashboard screen is the focal point on a clean, sunlit white wall displaying progress.
 *   **The Hook (Image Text):** Domina el volumen de ventas sin colapsar tu equipo.
 *   **Primary Text:** Cada nuevo proyecto inmobiliario multiplica el caos administrativo. Integra expedientes de cientos de compradores sin contratar más personal operativo. ValiDocs es la infraestructura tecnológica de validación documental que te permite escalar tu volumen de escrituración sin límites. Implementación en 5 días sin necesidad de equipo técnico o ingenieros.
 *   **Headline:** Automatización para operaciones inmobiliarias a escala.
